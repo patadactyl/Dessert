@@ -37,7 +37,7 @@ import timber.log.Timber
  *
  */
 class DessertTimer(lifecycle: Lifecycle) : LifecycleObserver {
-    
+
     // The number of seconds counted since the timer started
     var secondsCount = 0
 
